@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, python and node js
 - 💞️ I’m looking to collaborate on any project involving those languages
 - 📫 You can reach me on the following:
-Twitter: @Hiscript
+Twitter: @Hiscript_
 tundeadeoye9@gmail.com
 
 <!---
