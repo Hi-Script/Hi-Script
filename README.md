@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hi-Script
 - 👀 I’m interested in innovation
-- 🌱 I’m junior developer in javascript, python, django, php and node js
+- 🌱 I’m junior developer in python,ML, django, and frontend web developer
 - 💞️ I’m looking to collaborate on any project involving those languages
 - 📫 You can reach me on the following:
 Twitter: @Hiscript_
